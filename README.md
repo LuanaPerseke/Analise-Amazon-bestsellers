@@ -1,4 +1,3 @@
-[Documentação do Projeto Amazon Bestselling Books.md](https://github.com/user-attachments/files/34255764/Documentacao.do.Projeto.Amazon.Bestselling.Books.md)
 # Amazon Bestselling Books (2009 - 2019)
 
 Uma solução de Business Intelligence e Engenharia de Dados desenvolvida para analisar o desempenho de vendas, avaliações e precificação dos livros mais vendidos da Amazon. O projeto engloba desde a importação do arquivo bruto (`.csv` via Assistente de Importação de Arquivo Simples do SQL Server), limpeza, tratamento e modelagem dimensional em SQL Server (*Star Schema* com *surrogate key*), até a criação de um Dashboard Executivo e Interativo no Power BI.
